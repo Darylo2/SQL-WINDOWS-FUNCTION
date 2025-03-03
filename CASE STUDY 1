@@ -1,0 +1,13 @@
+A company's HR department wants to identify the top 3 highest-paid employees in each department. 
+Employees with the same salary should have the same rank, but the ranking should skip positions if there are ties (e.g., if two employees share rank 2, the next employee is ranked 4).
+
+Table: employees
+
+emp_id	name	department	salary
+1	Alice	IT	120000
+2	Bob	IT	110000
+3	Charlie	IT	110000
+4	David	HR	90000
+5	Eve	HR	95000
+6	Frank	IT	100000
+7	Grace	HR	85000
