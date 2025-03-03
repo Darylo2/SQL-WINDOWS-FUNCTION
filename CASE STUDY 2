@@ -1,0 +1,14 @@
+A retail company wants to determine the top 2 best-selling products in each category based on total sales revenue. 
+Products with the same revenue should have the same rank, and the next rank should skip accordingly.
+
+Table: sales
+
+product_id	        product_name	    category	    revenue
+101	                  Laptop A	     Electronics	  500000
+102	                  Laptop B	     Electronics	  450000
+103	                  Laptop C	     Electronics	  450000
+104	                  Phone X        Electronics    400000
+105	                  Sofa Set	     Furniture	    300000
+106	                  Dining Table	 Furniture	    280000
+107	                  Chair Set	     Furniture	    280000
+108	                  Bed Frame	     Furniture	    250000
